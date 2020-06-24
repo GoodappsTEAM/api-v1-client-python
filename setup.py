@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-
+$ pip install blockchain
 from distutils.core import setup
 
 setup(name='blockchain',
